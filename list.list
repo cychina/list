@@ -1,25 +1,25 @@
-# 翻墙网站
-host-suffix, youtube.livednow.com
-host-suffix, mytvsuper.livednow.com
-host-suffix, film.reddust.link
-host-suffix, 91md.me
-host-suffix, shayuapi.com
-host-suffix, apilj.com
-host-suffix, www.stream-link.org
-host-suffix, tv.iill.top
-host-suffix, www.acrosslinehosting.com
-host-suffix, bit.ly
-host-suffix, dw.com
+#翻墙网站
+host-suffix,youtube.livednow.com
+host-suffix,mytvsuper.livednow.com
+host-suffix,film.reddust.link
+host-suffix,91md.me
+host-suffix,shayuapi.com
+host-suffix,apilj.com
+host-suffix,www.stream-link.org
+host-suffix,tv.iill.top
+host-suffix,www.acrosslinehosting.com
+host-suffix,bit.ly
+host-suffix,dw.com
 
-# XPTV
-host-keyword, wogg
-host-suffix, wogg.link
-host-suffix, wogg.xyz
-host-suffix, xxooo.cf
-host-suffix, gitcafe.net
-host-suffix, mobile-stream.api.mgtv.com
+#XPTV
+host-keyword,wogg
+host-suffix,wogg.link
+host-suffix,wogg.xyz
+host-suffix,xxooo.cf
+host-suffix,gitcafe.net
+host-suffix,mobile-stream.api.mgtv.com
 
-# Syncnext
+#Syncnext
 host-suffix,v1.ax
 host-suffix,notion-api.splitbee.io
 host-suffix,themoviedb.org
@@ -46,25 +46,25 @@ host-suffix,nivodi.tv
 host-suffix,nivodz.com
 host-suffix,histar.tv
 
-# 分流
-host-suffix, film.reddust.link
-host-suffix, embymv.link
-host-suffix, www.tanhuatv.site
-host-suffix, pornemby.com
-host-suffix, emby3.mcjoker.xyz
-host-suffix, 581658.beat
-host-suffix, hka-emby.aliz.work
-host-suffix, emby.apopcloud.live
-host-suffix, embymv.tk
-host-suffix, cfemby.lilyya.xyz
-host-suffix, play.charontv.com
-host-suffix, embyplus.org****
-host-suffix, pub1.emby.wtf
-host-suffix, pub2.emby.wtf
-host-suffix, pub3.emby.wtf, proxy
-host-suffix, music.iuii.org, proxy
-host-suffix, misty.cx
-host-suffix, temby856.285286.xyz
-host-suffix, 110.40.59.61
-host-suffix, emby-mica-us-v1.mius.uk
-host-suffix, emby-micax-ca-v2.mius.uk
+#分流
+host-suffix,film.reddust.link
+host-suffix,embymv.link
+host-suffix,www.tanhuatv.site
+host-suffix,pornemby.com
+host-suffix,emby3.mcjoker.xyz
+host-suffix,581658.beat
+host-suffix,hka-emby.aliz.work
+host-suffix,emby.apopcloud.live
+host-suffix,embymv.tk
+host-suffix,cfemby.lilyya.xyz
+host-suffix,play.charontv.com
+host-suffix,embyplus.org****
+host-suffix,pub1.emby.wtf
+host-suffix,pub2.emby.wtf
+host-suffix,pub3.emby.wtf,proxy
+host-suffix,music.iuii.org,proxy
+host-suffix,misty.cx
+host-suffix,temby856.285286.xyz
+host-suffix,110.40.59.61
+host-suffix,emby-mica-us-v1.mius.uk
+host-suffix,emby-micax-ca-v2.mius.uk
