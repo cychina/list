@@ -7,9 +7,9 @@ host-suffix,shayuapi.com
 host-suffix,apilj.com
 host-suffix,www.stream-link.org
 host-suffix,tv.iill.top
-host-suffix,www.acrosslinehosting.com
 host-suffix,bit.ly
 host-suffix,dw.com
+host-keyword,acrosslinehosting
 
 #XPTV
 host-keyword,wogg
