@@ -1,5 +1,5 @@
 #翻墙网站
-host-suffix,livednow.com
+host-keyword,acrosslinehosting
 host-suffix,film.reddust.link
 host-suffix,91md.me
 host-suffix,shayuapi.com
@@ -8,7 +8,7 @@ host-suffix,www.stream-link.org
 host-suffix,tv.iill.top
 host-suffix,bit.ly
 host-suffix,dw.com
-host-keyword,acrosslinehosting
+host-suffix,vcards.metowolf.com
 
 #XPTV
 host-keyword,wogg
@@ -69,3 +69,4 @@ host-suffix,cf.sfcj.org
 host-suffix,emby-mica-us-v1.mius.uk
 host-suffix,emby-micax-ca-v2.mius.uk
 host-suffix,nebula-media.org
+host-suffix,eggtartemby.itsmyduty.top
