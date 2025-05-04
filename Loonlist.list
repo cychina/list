@@ -73,6 +73,3 @@ DOMAIN-SUFFIX,emby3.mcjoker.xyz,proxy
 DOMAIN-SUFFIX,tanhuatv.site,proxy
 DOMAIN-SUFFIX,embyplus.org,proxy
 DOMAIN-SUFFIX,emby.wtf,proxy
-
-#国内
-DOMAIN-SUFFIX,makima.online,DIRECT
