@@ -59,7 +59,7 @@ host-suffix,histar.tv
 
 #分流
 host-suffix,cc.embycc.link
-host-suffix,hka-emby.aliz.work
+host-suffix,aliz.work
 host-suffix,emby.jingzhe.pro
 host-suffix,eggtartemby.itsmyduty.top
 host-suffix,cf.lilyemby.my
@@ -77,9 +77,5 @@ host-suffix,gm.yezi.my
 host-suffix,emby3.mcjoker.xyz
 host-suffix,tanhuatv.site
 host-suffix,embyplus.org
-host-suffix,pub1.emby.wtf
-host-suffix,pub2.emby.wtf
-host-suffix,pub3.emby.wtf
-host-suffix,emby.69yun69.com
-host-suffix,emby2.69yun69.com
-host-suffix,emby3.69yun69.com
+host-suffix,emby.wtf
+host-suffix,69yun69.com
