@@ -56,8 +56,7 @@ DOMAIN-SUFFIX,histar.tv,proxy
 
 #分流
 DOMAIN-SUFFIX,cc.embycc.link,proxy
-DOMAIN-SUFFIX,hka-emby.aliz.work,proxy
-DOMAIN-SUFFIX,hkb-emby.aliz.work,proxy
+DOMAIN-SUFFIX,aliz.work,proxy
 DOMAIN-SUFFIX,emby.jingzhe.pro,proxy
 DOMAIN-SUFFIX,eggtartemby.itsmyduty.top,proxy
 DOMAIN-SUFFIX,cf.lilyemby.my,proxy
@@ -76,3 +75,5 @@ DOMAIN-SUFFIX,emby3.mcjoker.xyz,proxy
 DOMAIN-SUFFIX,tanhuatv.site,proxy
 DOMAIN-SUFFIX,embyplus.org,proxy
 DOMAIN-SUFFIX,emby.wtf,proxy
+DOMAIN-SUFFIX,313445.xyz,proxy
+DOMAIN-SUFFIX,69yun69.com,proxy
